@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InClassExamples_W20</string>
+    <string name="hello"> Hello world</string>
+    <string name="checkbox"> This is checkbox</string>
+    <string name="hint"> This hint disappears </string>
+    <string name="switchItUp">This is a switch</string>
+    <string name="radio"> Radio Button</string>
+    <string name="activity2">Go to second activity</string>
+    <string name="item2">Go to second activity</string>
+    <string name="sendEmail">Send an email</string>
+    <string name="viewURL">Go to a URL</string>
+    <string name="toastMessage1">You sent name %s, age %d, and typed: %s</string>
+</resources>
